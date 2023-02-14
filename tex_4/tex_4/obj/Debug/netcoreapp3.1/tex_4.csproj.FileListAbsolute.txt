@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\tex_4\tex_4\bin\Debug\netcoreapp3.1\tex_4.exe
+C:\Users\Lenovo\source\repos\tex_4\tex_4\bin\Debug\netcoreapp3.1\tex_4.deps.json
+C:\Users\Lenovo\source\repos\tex_4\tex_4\bin\Debug\netcoreapp3.1\tex_4.runtimeconfig.json
+C:\Users\Lenovo\source\repos\tex_4\tex_4\bin\Debug\netcoreapp3.1\tex_4.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\tex_4\tex_4\bin\Debug\netcoreapp3.1\tex_4.dll
+C:\Users\Lenovo\source\repos\tex_4\tex_4\bin\Debug\netcoreapp3.1\tex_4.pdb
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.dll
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.pdb
+C:\Users\Lenovo\source\repos\tex_4\tex_4\obj\Debug\netcoreapp3.1\tex_4.genruntimeconfig.cache
